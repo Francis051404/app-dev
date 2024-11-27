@@ -3,7 +3,7 @@ My first respository
 
 # My Favorite Series: *Bleach*
 
-![Bleach](https://i.pinimg.com/originals/5a/8a/8b/5a8a8bf1748e22acb266201b613de902.jpg)
+![Bleach](https://i.pinimg.com/originals/0d/78/e1/0d78e101d4b3e6c5d190791e41ac0a4d.jpg)
 
 **Genre**: Action, Adventure, Supernatural, Shonen
 
