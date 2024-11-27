@@ -3,7 +3,7 @@ My first respository
 
 # My Favorite Series: *Bleach*
 
-![Bleach](https://upload.wikimedia.org/wikipedia/en/7/72/Bleachanime.png)
+![Bleach](https://th.bing.com/th/id/OIP.e1A1GqnyAKfMyFmu65c1RAHaFj?rs=1&pid=ImgDetMain)
 
 **Genre**: Action, Adventure, Supernatural, Shonen
 
